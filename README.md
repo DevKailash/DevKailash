@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Kailash</h1>
 <h3 align="center">A passionate frontend developer from Bangalore, India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devkailash&label=Profile%20views&color=0e75b6&style=flat" alt="devkailash" /> </p>
+- 🔭 I’m currently working on **e-commerce platform project**
+
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **vue, Angular, JS, CSS, HTML, Firebase**
 
 - 📫 How to reach me **kailashinfotech4@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/19MHMceFf126Au5NwNXqoe19_nj20g0Xn/view?usp=drive_link](https://drive.google.com/file/d/19MHMceFf126Au5NwNXqoe19_nj20g0Xn/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
