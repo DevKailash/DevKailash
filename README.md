@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **vue, Angular, JS, CSS, HTML,Firebase**
+- 💬 Ask me about **vue, Angular, JS, Firebase, CSS, HTML, SASS,**
 
-- 📫 How to reach me **kailashinfotech4@gmail.com**
+- 📫 How to reach me: [![Email](https://img.shields.io/badge/Email-kailashinfotech4%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:kailashinfotech4@gmail.com) | [![Profile](https://img.shields.io/badge/Profile-Poly.me-blue?style=flat-square)](https://poly.me/kailash_n)
 
 - 📄 Know about my experiences [![Experiences](https://img.shields.io/badge/Experiences-Resume-blue?style=flat-square&logo=google-drive)](https://drive.google.com/file/d/19MHMceFf126Au5NwNXqoe19_nj20g0Xn/view?usp=drive_link)
 
