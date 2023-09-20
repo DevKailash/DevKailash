@@ -1,5 +1,7 @@
 
-![MasterHead](https://firebasestorage.googleapis.com/v0/b/kailash-portfolio.appspot.com/o/gif%2Fcoding-4.gif?alt=media&token=65eeb799-16ec-4ace-8e02-9057e1a7dad5)
+<p align="center">
+  <img src="https://firebasestorage.googleapis.com/v0/b/kailash-portfolio.appspot.com/o/gif%2Fcoding-4.gif?alt=media&token=65eeb799-16ec-4ace-8e02-9057e1a7dad5" alt="MasterHead">
+</p>
 <h1 align="center">Hi 👋, I'm Kailash</h1>
 <h3 align="center">A passionate frontend developer from Bangalore, India</h3>
 
