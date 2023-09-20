@@ -1,3 +1,6 @@
+
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/kailash-portfolio.appspot.com/o/gif%2Fcoding-3.gif?alt=media&token=d4b7b8ee-d1b5-4eb3-bb1e-b5b04dc9545d
+)]
 <h1 align="center">Hi 👋, I'm Kailash</h1>
 <h3 align="center">A passionate frontend developer from Bangalore, India</h3>
 
