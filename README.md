@@ -1,15 +1,15 @@
+<h2 align="center">Hi there 👋, Welcome to my Github page!</h2>
+<ul>
+  <li>I'm Kailash a passionate frontend developer from Bangalore, India.</li>
+  <li>I have 6+ years of experience working in various Frameworks like Vue, Angular, Ionic (Android & IOS), Electron and Phaser.js(Basics) </li>
+</ul>
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DevKailash&show_icons=true&locale=en" alt="DevKailash" /></p>
 
 <p align="center">
   <img src="https://firebasestorage.googleapis.com/v0/b/kailash-portfolio.appspot.com/o/gif%2Fcoding-4.gif?alt=media&token=65eeb799-16ec-4ace-8e02-9057e1a7dad5" alt="MasterHead">
 </p>
-<h1 align="center">Hi 👋, I'm Kailash</h1>
-<h3 align="center">A passionate frontend developer from Bangalore, India</h3>
-
-- 🔭 I’m currently working on **e-commerce platform project**
-
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **vue, Angular, JS, Firebase, CSS, HTML, SASS,**
 
 - 📫 How to reach me: [![Email](https://img.shields.io/badge/Email-kailashinfotech4%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:kailashinfotech4@gmail.com) | [![Profile](https://img.shields.io/badge/Profile-Poly.me-blue?style=flat-square)](https://poly.me/kailash_n)
 
