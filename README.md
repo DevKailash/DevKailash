@@ -4,9 +4,6 @@
   <li>I have 6+ years of experience working in various Frameworks like Vue, Angular, Ionic (Android & IOS), Electron and Phaser.js(Basics) </li>
 </ul>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DevKailash&show_icons=true&locale=en" alt="DevKailash" /></p>
-
 <p align="center">
   <img src="https://firebasestorage.googleapis.com/v0/b/kailash-portfolio.appspot.com/o/gif%2Fcoding-4.gif?alt=media&token=65eeb799-16ec-4ace-8e02-9057e1a7dad5" alt="MasterHead">
 </p>
