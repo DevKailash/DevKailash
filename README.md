@@ -4,7 +4,6 @@
   <li>I have 6+ years of experience working in various Frameworks like Vue, Angular, Ionic (Android & IOS), Electron and Phaser.js(Basics) </li>
 </ul>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DevKailash&show_icons=true&locale=en" alt="DevKailash" /></p>
 
 - 📫 How to reach me: [![Email](https://img.shields.io/badge/Email-kailashinfotech4%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:kailashinfotech4@gmail.com) | [![Profile](https://img.shields.io/badge/Profile-Poly.me-blue?style=flat-square)](https://poly.me/kailash_n)
 
